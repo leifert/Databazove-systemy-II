@@ -25,3 +25,7 @@
 - Z aplikace budou vytvořeny dva netriviální formuláře (tedy ne formuláře pro CRUD operace), které budou vybrány cvičícím. Na prezentační vrstvě budou podporovány základní validace vstupů.
 
 - Odevzdávat se bude kompletní dokumentace, SQL skripty a implementace.
+
+**Projekt Volejbalová liga**
+
+Dokumentace [zde](https://github.com/leifert/Databazove-systemy-II/blob/main/Projekt/Project.pdf)
